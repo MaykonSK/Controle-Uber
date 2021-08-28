@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42010791597",
+    "firebase_url": "https://controle-uber-3281c.firebaseio.com",
+    "project_id": "controle-uber-3281c",
+    "storage_bucket": "controle-uber-3281c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42010791597:android:e5f646108a4c170cab0024",
+        "android_client_info": {
+          "package_name": "com.example.controleuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42010791597-9okhr5a3djkfk76e0s6kaq8ami1j7956.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controleuber",
+            "certificate_hash": "1e73d0be6a2ac66ae655cdb1775cca2d61b67a3d"
+          }
+        },
+        {
+          "client_id": "42010791597-3snphga55j93c5capusd2brls7vkjmq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLwUcjDN6KKrSuLCy2GwKcl6AjZAalv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42010791597-3snphga55j93c5capusd2brls7vkjmq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
