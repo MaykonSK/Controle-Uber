@@ -1,2 +1,2 @@
 # Controle Uber
- Aplicativo para controle de ganhos em corridas
+ Aplicativo para controle de ganhos de corridas
